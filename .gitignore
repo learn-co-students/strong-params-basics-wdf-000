@@ -1,4 +1,6 @@
 *.rbc
+*.swp
+*.log
 capybara-*.html
 .rspec
 /log
